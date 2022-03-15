@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+# 啊哈，证据！
 
-You can use the [editor on GitHub](https://github.com/ahaevidence/ahaevidence/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![image](https://user-images.githubusercontent.com/101648813/158393544-516b2b3b-878f-4f99-8331-9789e08205e2.png)
+> 证据的“三性”，即真实性、合法性、关联性
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![image](https://user-images.githubusercontent.com/101648813/158395457-530b0481-3cb6-4521-8c45-db7f35b96de8.png)
+> [打官司不知道要准备什么证据？](https://www.thepaper.cn/newsDetail_forward_14172702)
 
-### Markdown
+![image](https://user-images.githubusercontent.com/101648813/158394534-71a6ff15-aa25-40a8-a99b-ca2cf902e0cb.png)
+> [《关于知识产权民事诉讼证据的若干规定》 ](https://www.sohu.com/a/432363942_166680)，该《规定》将于自2020年11月18日起施行。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## [法庭上，证据的三性如何认定？](https://zhuanlan.zhihu.com/p/438757720)
 
-```markdown
-Syntax highlighted code block
+![image](https://user-images.githubusercontent.com/101648813/158394769-666754ef-58d2-4aed-b671-cfd07f418edb.png)
 
-# Header 1
-## Header 2
-### Header 3
+最高人民法院关于《关于民事诉讼证据的若干规定》的决定，对民事诉讼证据进行了重大修改，对证据的三性作了更为详尽的规定。
 
-- Bulleted
-- List
+首先需要符合真实性，这是其他证据性质的基础。
 
-1. Numbered
-2. List
+真实性包括形式真实和内容真实。形式真实是指证据的形成过程是真实非伪造的。《最高人民法院关于民事诉讼证据的若干规定》第87条规定，证据是否为原件、原物，如果提交复制件、复制品与原件、原物是否相符，是对形式真实的要求。关于证据内容真实，《最高人民法院关于民事诉讼证据的若干规定》第87条直接使用了“证据的内容是否真实”的表述。《民诉法解释》第104条规定的“能够反映案件真实情况”，即是内容真实的含义。
 
-**Bold** and _Italic_ and `Code` text
+其次，证据需要具备合法性，
 
-[Link](url) and ![Image](src)
+《最高人民法院关于民事诉讼证据的若干规定》第87条的表述与《民诉法解释》第104条基本一致，均要求证据的形式、来源符合法律规定。合法性包含主体合法、来源合法、形式合法、程序合法、证据主体是指形成证据内容的个人或单位，证据主体合法，是指形成证据的主体须符合法律的要求。主体不合法也将导致证据的不合法。例如，不能正确表达意志的人，不能作为证人，作出鉴定结论的主体必须具有相关的鉴定资格等等。
+
+证据形式的合法性，是指作为证据不仅要求在内容上是真实的，还要求形式上也符合法律规定的要求。例如，单位向法院提交的证明文书须有单位负责人签名或盖章，并加盖单位印章;保证合同、抵押合同等，需要以书面形式的合同文本加以证明。
+
+证据来源合法，当事人收集的证据材料能否作为法院认定案件事实的证据，还要看该证据材料的取得方法是否符合法律的规定。例如采取偷录、偷拍等方式侵犯他人隐私权所取得的证据。
+
+证据程序合法，证据材料最后要作为证据还必须经过一定的诉讼程序，没有经过法律规定的程序该证据仍然不能作为认定案件的根据。这一程序就是证据的质证程序。《最高人民法院关于民事诉讼证据的若干规定》规定，证据应当在法庭上出示，由当事人质证。未经质证的证据，不能作为认定案件事实的依据。
+
+最后，证据需要符合关联性。
+
+![image](https://user-images.githubusercontent.com/101648813/158394959-09b8b920-a028-4e52-b292-fd3ed04986f1.png)
+
+《最高人民法院关于民事诉讼证据的若干规定》第87条的表述是“证据与本案事实是否相关”，《民诉法解释》第104条要求证据“与待证事实相关联”，对证据的关联性判断，应包括三个方面内容：
+
+```
+第一，要确认证据自身能证明的事实；
+第二，确认这个事实对解决诉争的问题所具有的意义；
+第三，判断法律对这种关联性有无具体要求。
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+关联性重在体现证据与案件待证事实间存在客观联系。
 
-### Jekyll Themes
+## 参考
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahaevidence/ahaevidence/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. [打官司就是打证据！如何整理提交证据更高效？资深法官、书记员给你支招！](https://new.qq.com/omn/20210630/20210630A0E1DG00.html)
+2. [了解这44个小问题，不请律师也能打官司！](https://www.sohu.com/a/425820884_693598)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Alt](https://repobeats.axiom.co/api/embed/0b50708f088caf67e4222f47f52df341ec71c4a2.svg "Repobeats analytics image")
